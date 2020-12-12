@@ -2,4 +2,4 @@
 
 Used PyTorch to implement the ResNet20 architecture.
 
-Training data should be handled independantly in this file.
+Training data should be handled independently in this file.
